@@ -1,10 +1,10 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&size=30&center=true&vCenter=true&width=600&lines=Akshya+Shree;Aspiring+Software+Developer;Java+%7C+Full+Stack+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&height=120&background=0D1117&lines=Akshya+Shree;Aspiring+Software+Developer;Java+%7C+Full+Stack+Learner" />
 </p>
 
-# 👋 Hi, I'm Akshya Shree
+#  Hi, I'm Akshya Shree
 
 🎓 Pre-final Year Computer Science Engineering Student  
 💼 Aspiring Software Developer  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Professional Summary
+##  Professional Summary
 
 Motivated and detail-oriented Computer Science student with strong foundations in Java and SQL.  
 Passionate about building scalable applications, improving problem-solving skills, and continuously learning modern technologies.  
