@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Akshya%20Shree&fontSize=40&fontAlignY=35&desc=Aspiring%20Software%20Developer%20|%20Java%20%26%20Full%20Stack%20Learner&descAlignY=55&descSize=18&fontColor=ffffff" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1f4037,100:99f2c8&text=Akshya%20Shree&fontSize=38&fontColor=ffffff" />
+</p
 
 ---
 
