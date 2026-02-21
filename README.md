@@ -1,7 +1,7 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1600&auto=format&fit=crop" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00ADB5&size=30&center=true&vCenter=true&width=600&lines=Akshya+Shree;Aspiring+Software+Developer;Java+%7C+Full+Stack+Learner" />
 </p>
 
 # 👋 Hi, I'm Akshya Shree
