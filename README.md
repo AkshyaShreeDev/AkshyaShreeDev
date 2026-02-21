@@ -1,7 +1,7 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkshyaShreeDev/AkshyaShreeDev/main/banner.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1f4037,100:99f2c8&text=Akshya%20Shree&fontSize=38&fontColor=ffffff" />
 </p>
 
 <p align="center">
