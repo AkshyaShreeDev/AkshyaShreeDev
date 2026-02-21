@@ -1,70 +1,59 @@
-# Hi there 👋, I'm Akshya Shree
-
-💡 Turning ideas into real-world software solutions  
-🎓 Pre-final Year CSE Student at Panimalar Engineering College  
-🚀 Aspiring Software Developer | Java & Full Stack Learner  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Akshya%20Shree&fontSize=40&fontAlignY=35&desc=Aspiring%20Software%20Developer%20|%20Java%20%26%20Full%20Stack%20Learner&descAlignY=55&descSize=18&fontColor=ffffff" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 👩‍💻 About Me
 
-![Akshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshyaShreeDev&show_icons=true&theme=tokyonight)
+🎓 Pre-final Year CSE Student at Panimalar Engineering College  
+💻 Focused on Java and Full Stack Development  
+🗄 Learning SQL and database design  
+🚀 Preparing for software developer placements  
 
 ---
 
 ## 🛠 Technical Skills
 
 ### 💻 Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- Java  
 
 ### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+- Tailwind CSS  
 
 ### 🗄 Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- MySQL  
 
 ---
 
-## 🌱 About Me
-
-- Strengthening Java and Full Stack development skills  
-- Learning SQL and database design  
-- Interested in building scalable web applications  
-- Preparing for software developer placements  
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 Java Basics
-- Core Java programs (Loops, OOPs, Exception Handling)
-- Console-based mini applications  
+## 🚀 Projects
 
 ### 🔹 Student Management System
-- CRUD operations using Java  
-- Menu-driven console application  
+- Java-based CRUD application  
+- Menu-driven console program  
 
-### 🔜 Upcoming Java Projects
-- Advanced OOP-based applications  
-- JDBC & MySQL integration  
-- Backend-focused mini projects  
+### 🔹 Java Practice Repository
+- OOP concepts  
+- Exception handling  
+- Core Java programs  
 
-🚧 More Java-focused projects coming soon.
+### 🔜 Upcoming Projects
+- JDBC + MySQL integration  
+- Backend-focused Java applications  
 
 ---
 
 ## 💻 Coding Profile
 
-- 🔗 LeetCode: https://leetcode.com/AkshyaShree/
+- LeetCode: https://leetcode.com/AkshyaShree/
 
 ---
 
-## 📫 Let's Connect
+## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshya-shree-180a9029b)
-
-📧 akshyashree435@gmail.com
+- LinkedIn: https://www.linkedin.com/in/akshya-shree-180a9029b  
+- Email: akshyashree435@gmail.com
