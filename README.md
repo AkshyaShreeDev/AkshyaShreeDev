@@ -15,7 +15,7 @@
 💻 Focused on Java, SQL & Full Stack Development  
 🚀 Currently learning and building real-world projects  
 
----
+
 
 ##  Professional Summary
 
@@ -23,7 +23,7 @@ Motivated and detail-oriented Computer Science student with strong foundations i
 Passionate about building scalable applications, improving problem-solving skills, and continuously learning modern technologies.  
 Seeking opportunities to contribute to impactful software development projects.
 
----
+
 
 ## 🛠 Technical Skills
 
@@ -40,14 +40,14 @@ Seeking opportunities to contribute to impactful software development projects.
 - React (Learning)  
 - Tailwind CSS (Learning)
 
----
+
 
 ## 📌 Projects
 
 🚧 Java Projects – Coming Soon  
 Working on practical Java-based applications to strengthen backend fundamentals.
 
----
+
 
 ## 🌱 Currently Improving
 
@@ -56,13 +56,13 @@ Working on practical Java-based applications to strengthen backend fundamentals.
 - Real-world Project Building  
 - Data Visualization with Power BI  
 
----
+
 
 ## 📫 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/akshya-shree-180a9029b  
 📧 Email: akshyashree435@gmail.com  
 
----
+
 
 ⭐ “Consistent learning and disciplined practice lead to long-term success.”
