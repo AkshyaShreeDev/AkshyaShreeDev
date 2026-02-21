@@ -1,61 +1,64 @@
-<!-- Professional Header -->
-<h1 align="center">Akshya Shree</h1>
-<h3 align="center">Aspiring Software Developer | Java & Full Stack Developer</h3>
+<!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshya-shree-180a9029b">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Chennai,%20India-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Java%20%26%20Full%20Stack-8A2BE2?style=for-the-badge"/>
+  <img src="https://raw.githubusercontent.com/AkshyaShreeDev/AkshyaShreeDev/main/banner.png" width="100%" />
 </p>
+
+# 👋 Hi, I'm Akshya Shree
+
+🎓 Pre-final Year Computer Science Engineering Student  
+💼 Aspiring Software Developer  
+💻 Focused on Java, SQL & Full Stack Development  
+🚀 Currently learning and building real-world projects  
 
 ---
 
-## 👩‍💻 Professional Summary
+## 🚀 Professional Summary
 
-Dedicated and growth-oriented Computer Science student with a strong foundation in Java and web technologies.  
-Passionate about building scalable applications and continuously improving problem-solving skills.
+Motivated and detail-oriented Computer Science student with strong foundations in Java and SQL.  
+Passionate about building scalable applications, improving problem-solving skills, and continuously learning modern technologies.  
+Seeking opportunities to contribute to impactful software development projects.
 
 ---
 
 ## 🛠 Technical Skills
 
-**Programming:**  
-Java  
+### Programming
+- Java  
 
-**Web Development:**  
-HTML | CSS | JavaScript | React | Tailwind CSS  
+### Database
+- SQL (Learning & Practicing)
 
-**Database:**  
-MySQL  
-
----
-
-## 🚀 Projects
-
-**Student Management System**
-- Java-based CRUD application  
-- Console-driven architecture  
-
-**Java Practice Repository**
-- OOP concepts  
-- Exception handling  
-- Core Java implementations  
-
-**Upcoming Projects**
-- JDBC + MySQL integration  
-- Backend-oriented Java applications  
+### Web Technologies
+- HTML  
+- CSS  
+- JavaScript  
+- React (Learning)  
+- Tailwind CSS (Learning)
 
 ---
 
-## 💻 Coding Profile
+## 📌 Projects
 
-LeetCode: https://leetcode.com/AkshyaShree/
+🚧 Java Projects – Coming Soon  
+Working on practical Java-based applications to strengthen backend fundamentals.
 
 ---
 
-## 📫 Contact
+## 🌱 Currently Improving
 
-LinkedIn: https://www.linkedin.com/in/akshya-shree-180a9029b  
-Email: akshyashree435@gmail.com
+- Advanced Java Concepts  
+- Full Stack Development  
+- Real-world Project Building  
+- Data Visualization with Power BI  
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/akshya-shree-180a9029b  
+📧 Email: akshyashree435@gmail.com  
+
+---
+
+⭐ “Consistent learning and disciplined practice lead to long-term success.”
