@@ -1,7 +1,11 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&height=120&background=0D1117&lines=Akshya+Shree;Aspiring+Software+Developer;Java+%7C+Full+Stack+Learner" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=auto&section=header&text=Akshya%20Shree&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=E6E6FA&center=true&vCenter=true&width=700&height=80&background=00000000&lines=Aspiring+Software+Developer;Java+%7C+Full+Stack+Learner" />
 </p>
 
 #  Hi, I'm Akshya Shree
