@@ -1,59 +1,61 @@
+<!-- Professional Header -->
+<h1 align="center">Akshya Shree</h1>
+<h3 align="center">Aspiring Software Developer | Java & Full Stack Developer</h3>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1f4037,100:99f2c8&text=Akshya%20Shree&fontSize=38&fontColor=ffffff" />
-</p
+  <a href="https://www.linkedin.com/in/akshya-shree-180a9029b">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Chennai,%20India-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Java%20%26%20Full%20Stack-8A2BE2?style=for-the-badge"/>
+</p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Professional Summary
 
-🎓 Pre-final Year CSE Student at Panimalar Engineering College  
-💻 Focused on Java and Full Stack Development  
-🗄 Learning SQL and database design  
-🚀 Preparing for software developer placements  
+Dedicated and growth-oriented Computer Science student with a strong foundation in Java and web technologies.  
+Passionate about building scalable applications and continuously improving problem-solving skills.
 
 ---
 
 ## 🛠 Technical Skills
 
-### 💻 Programming
-- Java  
+**Programming:**  
+Java  
 
-### 🌐 Web Development
-- HTML  
-- CSS  
-- JavaScript  
-- React  
-- Tailwind CSS  
+**Web Development:**  
+HTML | CSS | JavaScript | React | Tailwind CSS  
 
-### 🗄 Database
-- MySQL  
+**Database:**  
+MySQL  
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Student Management System
+**Student Management System**
 - Java-based CRUD application  
-- Menu-driven console program  
+- Console-driven architecture  
 
-### 🔹 Java Practice Repository
+**Java Practice Repository**
 - OOP concepts  
 - Exception handling  
-- Core Java programs  
+- Core Java implementations  
 
-### 🔜 Upcoming Projects
+**Upcoming Projects**
 - JDBC + MySQL integration  
-- Backend-focused Java applications  
+- Backend-oriented Java applications  
 
 ---
 
 ## 💻 Coding Profile
 
-- LeetCode: https://leetcode.com/AkshyaShree/
+LeetCode: https://leetcode.com/AkshyaShree/
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/akshya-shree-180a9029b  
-- Email: akshyashree435@gmail.com
+LinkedIn: https://www.linkedin.com/in/akshya-shree-180a9029b  
+Email: akshyashree435@gmail.com
