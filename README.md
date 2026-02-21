@@ -1,7 +1,7 @@
 <!-- ======================= BANNER ======================= -->
 
 <p align="center">
- <img src="./banner.png" width="100%" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1600&auto=format&fit=crop" width="100%" />
 </p>
 
 # 👋 Hi, I'm Akshya Shree
